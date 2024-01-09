@@ -1,0 +1,1 @@
+import jsonwith open("2.json", "r") as f:    calendar = json.load(f)    print(calendar)
